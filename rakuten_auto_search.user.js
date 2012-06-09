@@ -54,7 +54,7 @@ aryKeyWord[42] = 'TV番組表';
 aryKeyWord[43] = 'プロジェクト';
 aryKeyWord[44] = 'AppleScript';
 aryKeyWord[45] = '自転車';
-aryKeyWord[46] = 'TSUTAYA';
+aryKeyWord[46] = 'Foursquare';
 aryKeyWord[47] = 'ニコニコ';
 
 var intInterval =10 * 60 * 1000;
